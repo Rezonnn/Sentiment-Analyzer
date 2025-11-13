@@ -1,0 +1,19 @@
+# Basic negative sentiment lexicon (demo)
+bad
+terrible
+awful
+hate
+hated
+horrible
+sad
+negative
+angry
+worst
+poor
+boring
+disappoint
+disappointed
+annoying
+ugly
+lose
+losing

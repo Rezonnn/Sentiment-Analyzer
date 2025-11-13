@@ -1,0 +1,23 @@
+# Basic positive sentiment lexicon (demo)
+good
+great
+excellent
+awesome
+amazing
+love
+loved
+happy
+fantastic
+nice
+positive
+wonderful
+brilliant
+cool
+enjoy
+enjoyed
+like
+liked
+satisfying
+satisfied
+win
+winning
