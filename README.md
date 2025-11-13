@@ -1,8 +1,8 @@
 # 🧠 Advanced Python Sentiment Analyzer
 
-A more **complete and structured** sentiment analysis project in Python – great for your GitHub portfolio.
+A more **complete and structured** sentiment analysis project in Python.
 
-This version goes beyond a tiny script and includes:
+My project includes:
 
 - A reusable **package** (`sentiment_analyzer/`)
 - Sentence-level and document-level sentiment
@@ -82,16 +82,3 @@ pytest
 ```
 
 (If you don't want tests, you can still run the project fine without `pytest`.)
-
----
-
-## 🧩 Extending the Project
-
-Ideas to grow it further:
-
-- Add a larger lexicon (e.g., from external sources)
-- Add **negation handling** ("not good", "no fun")
-- Build a tiny **Flask** or **FastAPI** web API using this package
-- Add a **Jupyter notebook** that visualizes results
-
-This project is already “portfolio-ready” as a **modular Python codebase** that shows structure, CLI design, text processing, and simple NLP.
