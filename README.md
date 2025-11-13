@@ -1,6 +1,6 @@
 # 🧠 Python Sentiment Analyzer
 
-A simple Python NLP-style project for your GitHub portfolio.  
+A simple Python NLP-style project.  
 It analyzes text or text files and determines whether the sentiment is **positive**, **negative**, or **neutral** based on word counts.
 
 ## ✨ Features
